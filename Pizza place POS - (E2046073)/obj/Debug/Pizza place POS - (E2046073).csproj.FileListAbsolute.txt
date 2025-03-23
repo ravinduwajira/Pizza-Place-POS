@@ -1,0 +1,16 @@
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\bin\Debug\Pizza place POS - (E2046073).exe.config
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\bin\Debug\Pizza place POS - (E2046073).exe
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\bin\Debug\Pizza place POS - (E2046073).pdb
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza place POS - (E2046073).csproj.AssemblyReference.cache
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.CustomerReg.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Dashboard.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Form1.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Properties.Resources.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza place POS - (E2046073).csproj.GenerateResource.cache
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza place POS - (E2046073).csproj.CoreCompileInputs.cache
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza place POS - (E2046073).exe
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza place POS - (E2046073).pdb
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Inventory.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Cashier.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Reports.resources
+C:\Users\Ravindu Wajira\source\repos\Pizza place POS - (E2046073)\Pizza place POS - (E2046073)\obj\Debug\Pizza_place_POS____E2046073_.Invoice.resources
